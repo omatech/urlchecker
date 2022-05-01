@@ -1,3 +1,3 @@
-module github.com/omatech/urlchecker
+module omatech.com/urlchecker
 
 go 1.13
