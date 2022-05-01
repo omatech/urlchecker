@@ -1,4 +1,4 @@
-package go_urlchecker
+package urlchecker
 
 import (
 	"testing"
